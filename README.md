@@ -33,7 +33,7 @@
   <a href="mailto:mountader.alsinan@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mountader-al-sinan" target="_blank">
+  <a href="https://www.linkedin.com/in/mounteder-al-sinan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Mountader359" target="_blank">
