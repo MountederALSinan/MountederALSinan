@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MountederALSinan&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MountederALSinan&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MountaderALSinan&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MountaderALSinan&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3> 🛠️ المهارات والتقنيات </h3>
+  <h3> 🛠️ Skills & Technologies </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-  <h3> 🤝 تواصل معي </h3>
+  <h3> 🤝 Connect with Me </h3>
   <a href="mailto:mountader.alsinan@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook" />
   </a>
